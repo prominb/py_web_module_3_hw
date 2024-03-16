@@ -1,5 +1,3 @@
-# py_web_module_3_hw
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
@@ -8,11 +6,17 @@ To get a local copy up and running follow these simple example steps.
 
 ### Running
 
-This is an example of how to list things you need to use the software and how to install them.
-* sorted
+This is an example of how to list things you need to use the software and how to install them. For Windows OS
+* Help
   ```
   py .\sort.py -h
   ```
+  `sort.py [-h] --source SOURCE [--output OUTPUT]`
+* sorted
+  ```
+  py .\sort.py -s tempy1 -o tempy2
+  ```
+
 
 * factorize
   ```
@@ -24,6 +28,6 @@ This is an example of how to list things you need to use the software and how to
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the MIT License. See `LICENSE` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
